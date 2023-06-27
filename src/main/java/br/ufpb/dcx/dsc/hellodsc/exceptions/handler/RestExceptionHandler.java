@@ -1,7 +1,7 @@
 package br.ufpb.dcx.dsc.hellodsc.exceptions.handler;
 
 import br.ufpb.dcx.dsc.hellodsc.exceptions.StudentNotFoundException;
-import br.ufpb.dcx.hellos.exceptions.model.ApiError;
+import br.ufpb.dcx.dsc.hellodsc.exceptions.model.ApiError;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;
